@@ -1,0 +1,166 @@
+[
+  {
+    "location": "Singapore",
+    "project_name": "Cybersecurity Audit",
+    "end_date": "2024-08-15",
+    "client": "SecurePay",
+    "start_date": "2024-02-01",
+    "technologies": [
+      "Splunk",
+      "Wireshark",
+      "Kali Linux"
+    ],
+    "status": "Planned",
+    "project_manager": "Mohit Verma",
+    "project_id": "HCLPJT005",
+    "domain": "Finance"
+  },
+  {
+    "location": "Germany",
+    "project_name": "SAP Migration",
+    "end_date": "2024-06-30",
+    "client": "Global Manufacturing Ltd",
+    "start_date": "2023-08-01",
+    "technologies": [
+      "SAP S/4HANA",
+      "ABAP",
+      "BTP"
+    ],
+    "status": "In Progress",
+    "project_manager": "Priya Mehta",
+    "project_id": "HCLPJT002",
+    "domain": "Manufacturing"
+  },
+  {
+    "location": "Dubai",
+    "project_name": "Cloud Cost Optimization",
+    "end_date": "2024-10-31",
+    "client": "EcoInfra",
+    "start_date": "2024-04-10",
+    "technologies": [
+      "Terraform",
+      "AWS Cost Explorer",
+      "Ansible"
+    ],
+    "status": "Planned",
+    "project_manager": "Manoj Joshi",
+    "project_id": "HCLPJT009",
+    "domain": "Infrastructure"
+  },
+  {
+    "location": "Chennai",
+    "project_name": "Legacy App Modernization",
+    "end_date": "2024-04-01",
+    "client": "OldSoft Solutions",
+    "start_date": "2023-06-01",
+    "technologies": [
+      "Java",
+      "Kubernetes",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "status": "In Progress",
+    "project_manager": "Kavya Iyer",
+    "project_id": "HCLPJT008",
+    "domain": "Technology"
+  },
+  {
+    "location": "New York",
+    "project_name": "E-commerce Revamp",
+    "end_date": "2024-09-15",
+    "client": "TrendyFashions",
+    "start_date": "2023-11-20",
+    "technologies": [
+      "Angular",
+      "Spring Boot",
+      "Oracle DB"
+    ],
+    "status": "In Progress",
+    "project_manager": "Ravi Kumar",
+    "project_id": "HCLPJT003",
+    "domain": "Retail"
+  },
+  {
+    "location": "Noida",
+    "project_name": "Employee Portal Redesign",
+    "end_date": "2024-07-15",
+    "client": "HCL Internal",
+    "start_date": "2024-01-15",
+    "technologies": [
+      "Next.js",
+      "GraphQL",
+      "MySQL"
+    ],
+    "status": "In Progress",
+    "project_manager": "Sneha Kapoor",
+    "project_id": "HCLPJT010",
+    "domain": "HR Tech"
+  },
+  {
+    "location": "Sydney",
+    "project_name": "AI Chatbot for Insurance",
+    "end_date": "2024-12-01",
+    "client": "SureLife Insurance",
+    "start_date": "2024-03-01",
+    "technologies": [
+      "Python",
+      "Dialogflow",
+      "OpenAI API",
+      "Flask"
+    ],
+    "status": "In Progress",
+    "project_manager": "Aarti Raj",
+    "project_id": "HCLPJT006",
+    "domain": "Insurance"
+  },
+  {
+    "location": "Toronto",
+    "project_name": "Data Lake for Retail Analytics",
+    "end_date": "2024-09-10",
+    "client": "RetailMart",
+    "start_date": "2023-09-10",
+    "technologies": [
+      "Azure Data Lake",
+      "PySpark",
+      "Databricks"
+    ],
+    "status": "In Progress",
+    "project_manager": "Sandeep Nair",
+    "project_id": "HCLPJT007",
+    "domain": "Retail"
+  },
+  {
+    "location": "San Francisco",
+    "project_name": "IoT Smart Devices",
+    "end_date": "2023-12-31",
+    "client": "SmartHome Inc.",
+    "start_date": "2022-10-15",
+    "technologies": [
+      "Python",
+      "AWS IoT",
+      "MQTT",
+      "Raspberry Pi"
+    ],
+    "status": "Completed",
+    "project_manager": "Neha Agarwal",
+    "project_id": "HCLPJT004",
+    "domain": "IoT"
+  },
+  {
+    "location": "London",
+    "project_name": "Digital Banking App",
+    "end_date": "2024-11-30",
+    "client": "ABC Bank",
+    "start_date": "2024-01-10",
+    "technologies": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "AWS"
+    ],
+    "status": "In Progress",
+    "project_manager": "Arun Sharma",
+    "project_id": "HCLPJT001",
+    "domain": "Banking"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "project_id": "HCLPJT005",
+    "technology": "Splunk"
+  },
+  {
+    "project_id": "HCLPJT005",
+    "technology": "Wireshark"
+  },
+  {
+    "project_id": "HCLPJT005",
+    "technology": "Kali Linux"
+  },
+  {
+    "project_id": "HCLPJT002",
+    "technology": "SAP S/4HANA"
+  },
+  {
+    "project_id": "HCLPJT002",
+    "technology": "ABAP"
+  },
+  {
+    "project_id": "HCLPJT002",
+    "technology": "BTP"
+  },
+  {
+    "project_id": "HCLPJT009",
+    "technology": "Terraform"
+  },
+  {
+    "project_id": "HCLPJT009",
+    "technology": "AWS Cost Explorer"
+  },
+  {
+    "project_id": "HCLPJT009",
+    "technology": "Ansible"
+  },
+  {
+    "project_id": "HCLPJT008",
+    "technology": "Java"
+  },
+  {
+    "project_id": "HCLPJT008",
+    "technology": "Kubernetes"
+  },
+  {
+    "project_id": "HCLPJT008",
+    "technology": "Docker"
+  },
+  {
+    "project_id": "HCLPJT008",
+    "technology": "PostgreSQL"
+  },
+  {
+    "project_id": "HCLPJT003",
+    "technology": "Angular"
+  },
+  {
+    "project_id": "HCLPJT003",
+    "technology": "Spring Boot"
+  },
+  {
+    "project_id": "HCLPJT003",
+    "technology": "Oracle DB"
+  },
+  {
+    "project_id": "HCLPJT010",
+    "technology": "Next.js"
+  },
+  {
+    "project_id": "HCLPJT010",
+    "technology": "GraphQL"
+  },
+  {
+    "project_id": "HCLPJT010",
+    "technology": "MySQL"
+  },
+  {
+    "project_id": "HCLPJT006",
+    "technology": "Python"
+  },
+  {
+    "project_id": "HCLPJT006",
+    "technology": "Dialogflow"
+  },
+  {
+    "project_id": "HCLPJT006",
+    "technology": "OpenAI API"
+  },
+  {
+    "project_id": "HCLPJT006",
+    "technology": "Flask"
+  },
+  {
+    "project_id": "HCLPJT007",
+    "technology": "Azure Data Lake"
+  },
+  {
+    "project_id": "HCLPJT007",
+    "technology": "PySpark"
+  },
+  {
+    "project_id": "HCLPJT007",
+    "technology": "Databricks"
+  },
+  {
+    "project_id": "HCLPJT004",
+    "technology": "Python"
+  },
+  {
+    "project_id": "HCLPJT004",
+    "technology": "AWS IoT"
+  },
+  {
+    "project_id": "HCLPJT004",
+    "technology": "MQTT"
+  },
+  {
+    "project_id": "HCLPJT004",
+    "technology": "Raspberry Pi"
+  },
+  {
+    "project_id": "HCLPJT001",
+    "technology": "React"
+  },
+  {
+    "project_id": "HCLPJT001",
+    "technology": "Node.js"
+  },
+  {
+    "project_id": "HCLPJT001",
+    "technology": "MongoDB"
+  },
+  {
+    "project_id": "HCLPJT001",
+    "technology": "AWS"
+  }
+]
